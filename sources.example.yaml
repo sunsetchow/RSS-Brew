@@ -1,0 +1,5 @@
+sources:
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+  - name: Paul Graham Essays
+    url: http://www.aaronsw.com/2002/feeds/pgessays.rss
